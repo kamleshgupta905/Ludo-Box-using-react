@@ -1,0 +1,26 @@
+{
+  "name": "Ludo Feel — Feel the Game",
+  "short_name": "Ludo Feel",
+  "description": "Premium Ludo experience with tournaments, wallet, and live matches. Demo mode.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0F1A",
+  "theme_color": "#0B0F1A",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
